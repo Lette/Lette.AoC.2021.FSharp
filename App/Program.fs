@@ -8,6 +8,7 @@ module Runner =
         [
             Day01.meta
             Day02.meta
+            Day03.meta
         ]
 
     let run () =
